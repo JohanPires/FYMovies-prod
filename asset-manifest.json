@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.16919880.css",
+    "main.css": "/static/css/main.56650eff.css",
     "main.js": "/static/js/main.eb7cc347.js",
     "static/media/REM-VariableFont_wght.ttf": "/static/media/REM-VariableFont_wght.fd7b44497f4ba14249a3.ttf",
     "index.html": "/index.html",
-    "main.16919880.css.map": "/static/css/main.16919880.css.map",
+    "main.56650eff.css.map": "/static/css/main.56650eff.css.map",
     "main.eb7cc347.js.map": "/static/js/main.eb7cc347.js.map"
   },
   "entrypoints": [
-    "static/css/main.16919880.css",
+    "static/css/main.56650eff.css",
     "static/js/main.eb7cc347.js"
   ]
 }
